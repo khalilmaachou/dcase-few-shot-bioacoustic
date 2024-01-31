@@ -8,3 +8,4 @@ PeakUtils
 hydra-core
 
 mir-eval
+librosa==0.9.1
